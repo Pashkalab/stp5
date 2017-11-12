@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="lab.testing.GsonTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-10-28T17:04:45" hostname="Anvym6" time="4.232">
+<testsuite name="lab.testing.GsonTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2017-11-12T18:53:02" hostname="DESKTOP-CO2J425" time="0.432">
   <properties/>
-  <testcase name="serialize" classname="lab.testing.GsonTest" time="4.155"/>
-  <testcase name="deserialize" classname="lab.testing.GsonTest" time="0.077"/>
+  <testcase name="serialize" classname="lab.testing.GsonTest" time="0.401"/>
+  <testcase name="deserialize" classname="lab.testing.GsonTest" time="0.031"/>
   <system-out><![CDATA[
 ======GSON SERIALIZATION=====
 TV Show #1
@@ -79,8 +79,8 @@ TV Show #2
 }
 
 =====GSON SERIALIZATION METRICS=====
-Execution time: 4033
-Used memory: 5
+Execution time: 397
+Used memory: 31
 
 ======GSON SERIALIZATION=====
 TV Show #1
@@ -157,8 +157,8 @@ TV Show #2
 }
 
 =====GSON SERIALIZATION METRICS=====
-Execution time: 10
-Used memory: 5
+Execution time: 5
+Used memory: 31
 
 ======GSON SERIALIZATION=====
 TV Show #1
@@ -235,8 +235,8 @@ TV Show #2
 }
 
 =====GSON SERIALIZATION METRICS=====
-Execution time: 10
-Used memory: 5
+Execution time: 6
+Used memory: 31
 
 ======GSON DESERIALIZATION=====
 Name: Teen Wolf
@@ -275,8 +275,8 @@ Episode director: Phil Abraham
 
 
 =====GSON DESERIALIZATION METRICS=====
-Execution time: 54
-Used memory: 5
+Execution time: 18
+Used memory: 32
 
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>

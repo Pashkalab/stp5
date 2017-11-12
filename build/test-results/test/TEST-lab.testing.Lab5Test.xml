@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="lab.testing.Lab5Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-10-28T17:05:06" hostname="Anvym6" time="0.055">
+<testsuite name="lab.testing.Lab5Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-11-12T18:53:05" hostname="DESKTOP-CO2J425" time="0.015">
   <properties/>
-  <testcase name="printTvShowsTest" classname="lab.testing.Lab5Test" time="0.055"/>
+  <testcase name="printTvShowsTest" classname="lab.testing.Lab5Test" time="0.015"/>
   <system-out><![CDATA[
 ======GSON SERIALIZATION=====
 TV Show #1
@@ -78,8 +78,8 @@ TV Show #2
 }
 
 =====GSON SERIALIZATION METRICS=====
-Execution time: 34
-Used memory: 24
+Execution time: 4
+Used memory: 39
 
 ======GSON DESERIALIZATION=====
 Name: Teen Wolf
@@ -118,8 +118,8 @@ Episode director: Phil Abraham
 
 
 =====GSON DESERIALIZATION METRICS=====
-Execution time: 16
-Used memory: 24
+Execution time: 9
+Used memory: 39
 
 Name: Teen Wolf
 Year: 2011
