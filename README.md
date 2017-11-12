@@ -1,6 +1,6 @@
 <h2>lab<h2>
 
-https://travis-ci.org/Pashkalab/stp5.svg?branch=master
+[![Build Status](https://travis-ci.org/Pashkalab/stp5.svg?branch=master)](https://travis-ci.org/Pashkalab/stp5)
 
 [![codecov](https://codecov.io/gh/Pashkalab/stp5/branch/master/graph/badge.svg)](https://codecov.io/gh/Pashkalab/stp5)
 
